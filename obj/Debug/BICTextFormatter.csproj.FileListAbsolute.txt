@@ -1,0 +1,11 @@
+C:\Users\19031735\source\repos\BICTextFormatter\obj\Debug\BICTextFormatter.csprojAssemblyReference.cache
+C:\Users\19031735\source\repos\BICTextFormatter\obj\Debug\BICTextFormatter.frmMain.resources
+C:\Users\19031735\source\repos\BICTextFormatter\obj\Debug\BICTextFormatter.Properties.Resources.resources
+C:\Users\19031735\source\repos\BICTextFormatter\obj\Debug\BICTextFormatter.csproj.GenerateResource.cache
+C:\Users\19031735\source\repos\BICTextFormatter\obj\Debug\BICTextFormatter.csproj.CoreCompileInputs.cache
+C:\Users\19031735\source\repos\BICTextFormatter\bin\Debug\BICTextFormatter.exe.config
+C:\Users\19031735\source\repos\BICTextFormatter\bin\Debug\BICTextFormatter.exe
+C:\Users\19031735\source\repos\BICTextFormatter\bin\Debug\BICTextFormatter.pdb
+C:\Users\19031735\source\repos\BICTextFormatter\obj\Debug\BICTextFormatter.exe
+C:\Users\19031735\source\repos\BICTextFormatter\obj\Debug\BICTextFormatter.pdb
+C:\Users\19031735\source\repos\BICTextFormatter\obj\Debug\BICTextFormatter.frmAbout.resources
